@@ -1,0 +1,8 @@
+[submodule "3rd/skynet"]
+	path = 3rd/skynet
+	url = git@github.com:antsmallant/skynet.git
+	branch = master
+[submodule "3rd/lua-5.4.8"]
+	path = 3rd/lua-5.4.8
+	url = git@github.com:antsmallant/lua-5.4.8.git
+	branch = master
